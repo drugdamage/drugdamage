@@ -39,13 +39,6 @@ the receipts for that.
 
 ---
 
-## The stats bit
-
-![drugdamage's GitHub stats](https://github-readme-stats.vercel.app/api?username=drugdamage&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drugdamage&layout=compact&hide_border=true)
-
----
-
 ## How I roll
 
 Learning out in the open — wobbly bits included. If it's sat in a repo
