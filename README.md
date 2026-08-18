@@ -1,4 +1,4 @@
-Learning software testing — finding where code breaks, and why.
+Learning software testing.
 
 ![Profile views](https://komarev.com/ghpvc/?username=drugdamage&style=flat&color=blue&label=views)
 
