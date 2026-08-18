@@ -11,21 +11,18 @@ process, not a highlight reel.
 ## Currently working on
 
 - **QA / Testing** — [qa-portfolio](https://github.com/drugdamage/qa-portfolio)
-- **Python / FastAPI** — [fastapi-manga-store](https://github.com/drugdamage/fastapi-manga-store)
-- **Linux (CachyOS)** — [dotfiles](https://github.com/drugdamage/dotfiles)
+- **Wallpapers** — [wallpapers](https://github.com/drugdamage/wallpapers)
 
-## On hold
+## Not active
 
+- [fastapi-manga-store](https://github.com/drugdamage/fastapi-manga-store) — old Python/FastAPI project
+- [dotfiles](https://github.com/drugdamage/dotfiles) — CachyOS config, still works, not updated since switching to macOS
 - [soc-notes](https://github.com/drugdamage/soc-notes) — SOC basics, archived
 
 ---
 
 ## Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
