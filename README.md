@@ -1,5 +1,3 @@
-# drugdamage
-
 Learning software testing — finding where code breaks, and why.
 
 ![Profile views](https://komarev.com/ghpvc/?username=drugdamage&style=flat&color=blue&label=views)
