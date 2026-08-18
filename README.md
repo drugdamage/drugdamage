@@ -1,8 +1,6 @@
-# Hi, I'm drugdamage
+# drugdamage
 
-Learning software testing — finding where code breaks, and why. Still
-learning, not a seasoned dev. Everything here is a real step in the
-process, not a highlight reel.
+Learning software testing — finding where code breaks, and why.
 
 ![Profile views](https://komarev.com/ghpvc/?username=drugdamage&style=flat&color=blue&label=views)
 
@@ -15,8 +13,8 @@ process, not a highlight reel.
 
 ## Not active
 
-- [fastapi-manga-store](https://github.com/drugdamage/fastapi-manga-store) — old Python/FastAPI project
-- [dotfiles](https://github.com/drugdamage/dotfiles) — CachyOS config, still works, not updated since switching to macOS
+- [fastapi-manga-store](https://github.com/drugdamage/fastapi-manga-store) — old Python/FastAPI project, archived
+- [dotfiles](https://github.com/drugdamage/dotfiles) — CachyOS config, archived since switching to macOS
 - [soc-notes](https://github.com/drugdamage/soc-notes) — SOC basics, archived
 
 ---
