@@ -2,6 +2,7 @@
 
 - **Wallpapers** — [wallpapers](https://github.com/drugdamage/wallpapers)
 - **Salarium** — [salarium](https://github.com/drugdamage/salarium)
+- **Glyphwood** — [glyphwood](https://github.com/drugdamage/glyphwood)
 
 ---
 
