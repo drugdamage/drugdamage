@@ -33,6 +33,7 @@
 ![CachyOS](https://img.shields.io/badge/CachyOS-225A79?style=for-the-badge&logo=cachyos&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-345C90?style=for-the-badge&logo=gnome&logoColor=white)
 ![Kitty](https://img.shields.io/badge/Kitty-403C4E?style=for-the-badge&logo=kitty&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-3C4654?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-3A5E28?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-A33D19?style=for-the-badge&logo=zsh&logoColor=white)
 ![Fish](https://img.shields.io/badge/Fish-295C69?style=for-the-badge&logo=fishshell&logoColor=white)
